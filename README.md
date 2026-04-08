@@ -1,4 +1,5 @@
 # Azure Big Data Pipeline using Data Lake & Synapse
+## Video : https://drive.google.com/file/d/12ZhuBGjfocFXw1b-Jks5Aavs3rfZxp_6/view?usp=drive_link
 
 ## Overview
 
